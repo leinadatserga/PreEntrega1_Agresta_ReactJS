@@ -79,7 +79,6 @@ button:hover {
   background-color: rgb(157, 255, 206);
   color: rgb(85, 85, 216);
   text-shadow: 2px 1.5px 6px rgb(255, 255, 92);
-  cursor: grab;
   font-size: 36px;
   text-align: center;
 }
